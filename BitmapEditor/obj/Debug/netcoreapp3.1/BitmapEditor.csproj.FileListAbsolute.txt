@@ -1,0 +1,15 @@
+C:\Users\valen\source\repos\BitmapEditor\BitmapEditor\obj\Debug\netcoreapp3.1\BitmapEditor.csprojAssemblyReference.cache
+C:\Users\valen\source\repos\BitmapEditor\BitmapEditor\obj\Debug\netcoreapp3.1\BitmapEditor.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\BitmapEditor\BitmapEditor\obj\Debug\netcoreapp3.1\BitmapEditor.AssemblyInfoInputs.cache
+C:\Users\valen\source\repos\BitmapEditor\BitmapEditor\obj\Debug\netcoreapp3.1\BitmapEditor.AssemblyInfo.cs
+C:\Users\valen\source\repos\BitmapEditor\BitmapEditor\obj\Debug\netcoreapp3.1\BitmapEditor.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\BitmapEditor\BitmapEditor\bin\Debug\netcoreapp3.1\BitmapEditor.exe
+C:\Users\valen\source\repos\BitmapEditor\BitmapEditor\bin\Debug\netcoreapp3.1\BitmapEditor.deps.json
+C:\Users\valen\source\repos\BitmapEditor\BitmapEditor\bin\Debug\netcoreapp3.1\BitmapEditor.runtimeconfig.json
+C:\Users\valen\source\repos\BitmapEditor\BitmapEditor\bin\Debug\netcoreapp3.1\BitmapEditor.runtimeconfig.dev.json
+C:\Users\valen\source\repos\BitmapEditor\BitmapEditor\bin\Debug\netcoreapp3.1\BitmapEditor.dll
+C:\Users\valen\source\repos\BitmapEditor\BitmapEditor\bin\Debug\netcoreapp3.1\BitmapEditor.pdb
+C:\Users\valen\source\repos\BitmapEditor\BitmapEditor\obj\Debug\netcoreapp3.1\BitmapEditor.Form1.resources
+C:\Users\valen\source\repos\BitmapEditor\BitmapEditor\obj\Debug\netcoreapp3.1\BitmapEditor.dll
+C:\Users\valen\source\repos\BitmapEditor\BitmapEditor\obj\Debug\netcoreapp3.1\BitmapEditor.pdb
+C:\Users\valen\source\repos\BitmapEditor\BitmapEditor\obj\Debug\netcoreapp3.1\BitmapEditor.genruntimeconfig.cache
